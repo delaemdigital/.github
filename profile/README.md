@@ -2,54 +2,52 @@
 
 **Цифровые системы, которые приводят клиентов и автоматизируют бизнес.**
 
-Delaem Digital проектирует и собирает production-ready цифровые системы для бизнеса — от первого касания и трафика до CRM, обработки, автоматизации, AI и аналитики.
+Мы проектируем и собираем связанные digital-системы для бизнеса: от первого касания и трафика до заявки, CRM, обработки, автоматизации, AI и аналитики.
+
+`Brand -> Site / Entry -> Traffic -> Lead -> CRM -> Processing -> Follow-up -> Analytics -> Improvement`
 
 ## Что мы строим
 
-- основной сайт и цифровые точки входа;
-- автоворонки и lead-flow systems;
+- сайты и цифровые точки входа;
+- автоворонки и lead-processing systems;
 - AI-консультантов и AI-внедрения;
-- traffic / lead-generation infrastructure;
+- traffic / lead-generation systems;
 - технологичные лид-магниты и аудиты;
-- цифровые системы под ключ для бизнеса;
+- цифровые системы для бизнеса под ключ;
 - собственную cold-outreach technology;
 - внутренние product, website, AI, analytics и delivery factories.
 
 ## Продукты
 
-- **Сеть.** — портативная персональная сеть для бизнеса и экспертов;
-- **Витрина.** — готовые онлайн-магазины для бизнеса;
-- **Симбиоз** — архитектор онлайн-школ;
-- **CRM ДД** — собственная CRM-платформа, сейчас в стадии архитектуры и нейминга.
+- **Сеть.** - портативная персональная сеть для бизнеса и экспертов;
+- **Витрина.** - готовые онлайн-магазины для бизнеса;
+- **Симбиоз** - архитектор онлайн-школ;
+- **CRM ДД** - собственная CRM-платформа, сейчас в стадии архитектуры и нейминга.
 
 ## Telegram products
 
-- **Хост.** — качественные серверы и домены;
-- **Креатив.** — разработка рекламных креативов;
-- **Логотип.** — разработка логотипов для компаний;
-- **Автоворонка ДД** — единый Telegram-вход в продуктовый контур компании.
+- **Хост.** - качественные серверы и домены;
+- **Креатив.** - разработка рекламных креативов;
+- **Логотип.** - разработка логотипов для компаний;
+- **Автоворонка ДД** - единый Telegram-вход в продуктовый контур компании.
 
-## Engineering approach
+## Engineering
 
-Мы строим не набор изолированных инструментов, а связанные системы:
-
-`Brand -> Site / Entry -> Traffic -> Lead -> CRM -> Processing -> Follow-up -> Analytics -> Improvement`
-
-Рабочий принцип:
+Каждый production-продукт должен иметь понятные ownership, architecture, release process, observability и recovery path. Мы не объединяем продукты в монолит ради порядка и не усложняем инфраструктуру без бизнес-причины.
 
 `evidence -> decision -> PR -> CI -> deploy -> smoke -> rollback readiness`
 
-AI используется там, где он даёт измеримый эффект. Production-системы должны иметь понятную архитектуру, ownership, CI/release process, observability и recovery path.
+AI используем там, где он даёт измеримый эффект в продажах, обработке, операциях, аналитике или производстве.
 
-## Engineering leadership
+## Leadership
 
-- **Vitaly** — Founder / CEO;
-- **Denis (`RoXyGeNOFF`)** — CTO / CIO.
+- **Vitaly** - Founder / CEO;
+- **Denis (`RoXyGeNOFF`)** - CTO / CIO.
 
-## Links
+## Link
 
-Website: `https://delaemdigital.com`
+**Website:** https://delaemdigital.com
 
 ---
 
-Public repositories in this organization are intentionally selected. Client code, production secrets, customer-confidential data and proprietary internal systems remain private.
+Public repositories are intentionally selected. Client code, production secrets, customer-confidential data and proprietary internal systems remain private by default.
